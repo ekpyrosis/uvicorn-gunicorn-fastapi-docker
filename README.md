@@ -1,25 +1,25 @@
-[![Test](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/workflows/Test/badge.svg)](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/actions?query=workflow%3ATest) [![Deploy](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/workflows/Deploy/badge.svg)](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/actions?query=workflow%3ADeploy)
+[![Test](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/workflows/Test/badge.svg)](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/actions?query=workflow%3ATest) [![Deploy](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/workflows/Deploy/badge.svg)](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/actions?query=workflow%3ADeploy)
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`python3.8`, `latest` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.8.dockerfile)
-* [`python3.7`, _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.7.dockerfile)
-* [`python3.6` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.6.dockerfile)
-* [`python3.8-slim` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.8-slim.dockerfile)
-* [`python3.8-alpine3.10` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.8-alpine3.10.dockerfile)
-* [`python3.7-alpine3.8` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.7-alpine3.8.dockerfile)
-* [`python3.6-alpine3.8` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.6-alpine3.8.dockerfile)
+* [`python3.8`, `latest` _(Dockerfile)_](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.8.dockerfile)
+* [`python3.7`, _(Dockerfile)_](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.7.dockerfile)
+* [`python3.6` _(Dockerfile)_](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.6.dockerfile)
+* [`python3.8-slim` _(Dockerfile)_](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.8-slim.dockerfile)
+* [`python3.8-alpine3.10` _(Dockerfile)_](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.8-alpine3.10.dockerfile)
+* [`python3.7-alpine3.8` _(Dockerfile)_](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.7-alpine3.8.dockerfile)
+* [`python3.6-alpine3.8` _(Dockerfile)_](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker/blob/master/docker-images/python3.6-alpine3.8.dockerfile)
 
 
-**Note**: Note: There are [tags for each build date](https://hub.docker.com/r/tiangolo/uvicorn-gunicorn-fastapi/tags). If you need to "pin" the Docker image version you use, you can select one of those tags. E.g. `tiangolo/uvicorn-gunicorn-fastapi:python3.7-2019-10-15`.
+**Note**: Note: There are [tags for each build date](https://hub.docker.com/r/ekpyrosis/uvicorn-gunicorn-fastapi/tags). If you need to "pin" the Docker image version you use, you can select one of those tags. E.g. `tiangolo/uvicorn-gunicorn-fastapi:python3.7-2019-10-15`.
 
 # uvicorn-gunicorn-fastapi
 
 [**Docker**](https://www.docker.com/) image with [**Uvicorn**](https://www.uvicorn.org/) managed by [**Gunicorn**](https://gunicorn.org/) for high-performance [**FastAPI**](https://fastapi.tiangolo.com/) web applications in **[Python](https://www.python.org/) 3.6 and above** with performance auto-tuning. Optionally in a slim version or based on Alpine Linux.
 
-**GitHub repo**: [https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
+**GitHub repo**: [https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker](https://github.com/ekpyrosis/uvicorn-gunicorn-fastapi-docker)
 
-**Docker Hub image**: [https://hub.docker.com/r/tiangolo/uvicorn-gunicorn-fastapi/](https://hub.docker.com/r/tiangolo/uvicorn-gunicorn-fastapi/)
+**Docker Hub image**: [https://hub.docker.com/r/ekpyrosis/uvicorn-gunicorn-fastapi/](https://hub.docker.com/r/ekpyrosis/uvicorn-gunicorn-fastapi/)
 
 ## Description
 
